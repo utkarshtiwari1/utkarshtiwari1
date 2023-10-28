@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently working on Frontend
+- 🌱 I’m currently learning Full Stack (MERN)
 - 📫 How to reach me: my Email ID - tiwariutkarsh5638@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
